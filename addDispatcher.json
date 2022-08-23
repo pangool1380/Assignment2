@@ -1,0 +1,27 @@
+[
+    {
+        "first_name":"Ben",
+        "last_name":"Haggerty",
+        "employee_id": 11233,
+        "date_started": "2012-01-01",
+        "station_id": 56,
+        "station_name": "King George"
+    },
+    {
+        "first_name": "Kevin",
+        "last_name": "Edison",
+        "employee_id": 11234,
+        "date_started": "2019-01-01",
+        "station_id": 97,
+        "station_name": "Nanaimo"
+    },
+    {
+        "first_name": "Mamad",
+        "last_name": "Jafarzadeh",
+        "employee_id": 11235,
+        "date_started": "2020-01-01",
+        "station_id": 98,
+        "station_name": "Metrotown"
+    }
+
+]
